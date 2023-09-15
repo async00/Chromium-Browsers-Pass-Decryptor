@@ -8,3 +8,5 @@ YOU CAN ALSO USE THIS FOR CHROME, OPERA, AND MICROSOFT EDGE (so CHROMIUM-BASED B
 
 ![Alt text](https://github.com/flexp1/Chromium-Browsers-Pass-Decryptor/blob/main/image.png)
 ![Alt text](https://github.com/flexp1/Chromium-Browsers-Pass-Decryptor/blob/main/github.png)
+
+discord : flex1zy1881
