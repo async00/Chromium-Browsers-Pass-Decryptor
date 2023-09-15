@@ -6,3 +6,4 @@ For example, after stealing files like "C:\Users{USERNAME}\AppData\Local\Google\
 
 
 ![Alt text](https://github.com/flexp1/Chromium-Browsers-Pass-Decryptor/blob/main/image.png)
+![Alt text](https://github.com/flexp1/Chromium-Browsers-Pass-Decryptor/blob/main/github.png)
