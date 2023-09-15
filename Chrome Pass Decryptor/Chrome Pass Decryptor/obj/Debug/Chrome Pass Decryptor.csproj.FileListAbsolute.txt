@@ -1,0 +1,33 @@
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Chrome Pass Decryptor.exe.config
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Chrome Pass Decryptor.exe
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Chrome Pass Decryptor.pdb
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Buffers.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Memory.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Buffers.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Memory.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.csproj.AssemblyReference.cache
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome_Pass_Decryptor.Form1.resources
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome_Pass_Decryptor.Properties.Resources.resources
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.csproj.GenerateResource.cache
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.csproj.CopyComplete
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.exe
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome Pass Decryptor.pdb
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Flawless369\source\repos\Chrome Pass Decryptor\Chrome Pass Decryptor\obj\Debug\Chrome_Pass_Decryptor.Form2.resources
