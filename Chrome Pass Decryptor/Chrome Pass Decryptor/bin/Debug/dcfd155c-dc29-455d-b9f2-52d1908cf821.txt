@@ -1,0 +1,29 @@
+null----------
+MAIN URL : https://deneme123.com/
+Username : qwewqewq
+Password : qweqwewq
+Browser  : Chrome
+-----------
+
+ URL : https://go.microsoft.com/fwlink/?linkid=2132465&form=MT004A&OCID=MT004A
+Last : 29.07.0792 22:19:24 URL : https://www.microsoft.com/edge/welcome
+Last : 29.07.0792 22:19:24 URL : https://www.microsoft.com/tr-tr/edge/welcome?form=MA13DW&exp=e00
+Last : 29.07.0792 22:19:25 URL : https://www.yandex.com.tr/search/?text=mozilla+firefox+indir&clid=2411726
+Last : 29.07.0792 22:19:35 URL : https://www.yandex.com.tr/search/?text=mozilla+firefox+indir&clid=2411726&lr=21178
+Last : 29.07.0792 22:19:35 URL : https://www.mozilla.org/tr/firefox/new/
+Last : 29.07.0792 22:19:36 URL : https://www.mozilla.org/tr/firefox/download/thanks/
+Last : 29.07.0792 22:19:38 URL : https://www.bing.com/search?q=mo%c4%b1n&form=WNSGPH&qs=UT&cvid=ccaa610d8cbe49c68df87f8aa7546524&pq=mo%C4%B1n&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1691320686294&nclidts=1691320686&tsms=294&wsso=Moderate
+Last : 5.08.0792 11:18:07 URL : https://www.bing.com/search?q=mo%c4%b1n&form=WNSGPH&qs=UT&cvid=ccaa610d8cbe49c68df87f8aa7546524&pq=mo%C4%B1n&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1691320686294&wsso=Moderate
+Last : 5.08.0792 11:18:07 URL : https://www.bing.com/search?q=g%C3%BC%C3%A7%20modu%20windows%2010&form=B00032&ocid=SettingsHAQ-BingIA&mkt=tr-TR
+Last : 8.08.0792 10:44:56 URL : https://www.yandex.com.tr/search/?text=192.168.1.1&clid=2411726
+Last : 8.08.0792 12:34:09 URL : https://www.yandex.com.tr/search/?text=192.168.1.1&clid=2411726&lr=21178
+Last : 8.08.0792 12:34:09 URL : https://www.bing.com/search?q=core+tep&form=WNSGPH&qs=SW&cvid=0eae0489ec1f41a385f2a6d93a53e929&pq=core+tep&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1691710887001&nclidts=1691710887&tsms=001&wsso=Moderate
+Last : 9.08.0792 23:41:28 URL : https://www.bing.com/search?q=core+tep&form=WNSGPH&qs=SW&cvid=0eae0489ec1f41a385f2a6d93a53e929&pq=core+tep&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1691710887001&wsso=Moderate
+Last : 9.08.0792 23:41:28 URL : https://www.bing.com/search?q=roblox&form=WNSGPH&qs=AS&cvid=3dbadee80f844d6fab3cf368e16d240a&pq=roblox&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1692366774642&nclidts=1692366774&tsms=642&wsso=Moderate
+Last : 17.08.0792 13:52:55 URL : https://www.bing.com/search?q=roblox&form=WNSGPH&qs=AS&cvid=3dbadee80f844d6fab3cf368e16d240a&pq=roblox&cc=TR&setlang=tr-TR&nclid=F6A0795B830DA22677ABB0A11B057EBB&ts=1692366774642&wsso=Moderate
+Last : 17.08.0792 13:52:55 URL : https://go.microsoft.com/fwlink/?LinkId=528884
+Last : 14.09.0792 14:49:19 URL : https://www.bing.com/search?q=windows%e2%80%99da+dosya+gezgini+ile+ilgili+yard%c4%b1m+alma&filters=guid:%224026535-tr-dia%22%20lang:%22tr%22&form=S00028
+Last : 14.09.0792 14:49:19 URL : https://go.microsoft.com/fwlink/?linkid=2140622&channel=stable&version=116.0.1938.76
+Last : 9.09.0792 18:12:09 URL : https://www.microsoft.com/edge/update?channel=stable&version=116.0.1938.76
+Last : 9.09.0792 18:12:09 URL : https://www.microsoft.com/tr-tr/edge/update/116?form=MT00GR&channel=stable&version=116.0.1938.76
+Last : 9.09.0792 18:12:09

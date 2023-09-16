@@ -44,5 +44,41 @@ namespace Chrome_Pass_Decryptor
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Tüm Dosyalar|*.*"; // İsteğe bağlı olarak dosya türü filtresini ayarlayabilirsiniz.
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string selectedFilePath = openFileDialog.FileName;
+                textBox1.Text = selectedFilePath;
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Tüm Dosyalar|*.*"; // İsteğe bağlı olarak dosya türü filtresini ayarlayabilirsiniz.
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string selectedFilePath = openFileDialog.FileName;
+                textBox2.Text = selectedFilePath;
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Tüm Dosyalar|*.*"; // İsteğe bağlı olarak dosya türü filtresini ayarlayabilirsiniz.
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string selectedFilePath = openFileDialog.FileName;
+                textBox3.Text = selectedFilePath;
+            }
+        }
     }
 }
